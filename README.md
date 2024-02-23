@@ -1,1 +1,2 @@
 # App_IndianParliamentMinutes
+I had known that the Lok Sabha website publishes the minutes of the Parliamentary debates, but found the idea of rummaging through the 5,000 documents difficult. Here is my small attempt to take this massive truckload of information and make it more accessible. I hope it sparks your curiosity and encourages further exploration of this rich resource. Let me know if you have any suggestions to improve on visheshika.baheti@gmail.com.
